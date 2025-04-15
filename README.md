@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/agata-morales/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lessslie/lessslie/output/dist/github-contribution-grid-snake.gif" alt="snake" />
+</div>
 
 <div align="center">
     <picture align="center">
@@ -11,18 +14,6 @@
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
     </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lessslie/lessslie/output/dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lessslie/lessslie/output/dist/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lessslie/lessslie/output/dist/github-snake.svg">
-  </picture>
-</div>
-<!-- Alternativa usando la versión animada GIF -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lessslie/lessslie/output/dist/ocean.gif" alt="github contribution grid snake animation" />
 </div>
 
 
