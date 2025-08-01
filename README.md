@@ -22,7 +22,7 @@
 - 🌱 Soy Agata Morales 
 - ⚡ Preguntame sobre: JavaScript, TypeScript, NestJS, PostgreSQL, NodeJS, HTML, CSS, MongoDB, JWT, etc.
 - 💖 Amo el código y las fotos.
-- 🔥 Nunca se es demasiado viejo para aprender.
+- 🔥 Nunca es demasiado tarde para aprender.
 - 📧 agata.morales92@gmail.com
 - 🐈‍⬛ https://lessslie.github.io/lesslie.github.io/
 
